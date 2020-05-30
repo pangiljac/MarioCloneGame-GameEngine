@@ -1,0 +1,5 @@
+package eecs40.assignment4;
+
+public enum Type {
+    UNBREAKABLE, BREAKABLE, MYSTERY, COIN, MUSHROOM, FLOWER, AIR, BEETLE, PLANT, PARATROOPER;
+}
